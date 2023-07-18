@@ -30,7 +30,8 @@ SECRET_KEY = 'django-insecure-8g&8f#fiqzx@pp1%xkl&+@uq5(6v#20&#c)z(+3r2j#^9@4$zg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-camelia03-fsf-hello-djan-sectaifvou.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-camelia03-fsf-hello-djan-sectaifvou.us2.codeanyapp.com',
+                 'camelia-django-todo-app-98fd4d26f019.herokuapp.com']
 
 
 # Application definition
